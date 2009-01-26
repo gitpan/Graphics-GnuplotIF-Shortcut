@@ -1,6 +1,6 @@
 package Graphics::GnuplotIF::Shortcut;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 use base 'Graphics::GnuplotIF';
 
 our @EXPORT_OK = 'GnuplotIF';
@@ -25,7 +25,7 @@ Graphics::GnuplotIF::Shortcut - Alternate interface to Graphics::GnuplotIF
 
 =head1 VERSION
 
-This document describes Graphics::GnuplotIF::Shortcut version 0.01
+This document describes Graphics::GnuplotIF::Shortcut version 0.02
 
 
 =head1 SYNOPSIS
