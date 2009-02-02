@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Graphics-GnuplotIF-Shortcut
-version:            0.02
+version:            0.03
 abstract:           Alternate interface to Graphics::GnuplotIF
 author:
     - Boris Zentner <bzm@2bz.de>

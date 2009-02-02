@@ -1,6 +1,6 @@
 package Graphics::GnuplotIF::Shortcut;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 use base 'Graphics::GnuplotIF';
 
 our @EXPORT_OK = 'GnuplotIF';
@@ -25,7 +25,7 @@ Graphics::GnuplotIF::Shortcut - Alternate interface to Graphics::GnuplotIF
 
 =head1 VERSION
 
-This document describes Graphics::GnuplotIF::Shortcut version 0.02
+This document describes Graphics::GnuplotIF::Shortcut version 0.03
 
 
 =head1 SYNOPSIS
@@ -125,7 +125,7 @@ Boris Zentner  C<< <bzm@2bz.de> >>
 
 =head1 LICENCE AND COPYRIGHT
 
-Copyright (c) 2008, Boris Zentner C<< <bzm@2bz.de> >>. All rights reserved.
+Copyright (c) 2008, 2009 Boris Zentner C<< <bzm@2bz.de> >>. All rights reserved.
 
 This module is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself. See L<perlartistic>.
